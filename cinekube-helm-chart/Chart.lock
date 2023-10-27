@@ -1,0 +1,9 @@
+dependencies:
+- name: cinekube-backend
+  repository: file://../cinekube-backend
+  version: 0.1.0
+- name: cinekube-movie-tracker
+  repository: file://../cinekube-movie-tracker
+  version: 0.1.0
+digest: sha256:de5219f92600ef47d9c3967dd9a6de425713bd4dc7e0457ac866ea71b0edaee6
+generated: "2023-10-27T20:24:44.7628602+01:00"
