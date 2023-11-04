@@ -7,9 +7,9 @@ appVersion: "1.16.0"
 dependencies:
   - name: cinekube-backend
     version: 0.1.0
-    repository: file://../cinekube-backend
+    repository: file://../services-charts/cinekube-backend
     condition: cinekube-backend.enabled
   - name: cinekube-movie-tracker
     version: 0.1.0
-    repository: file://../cinekube-movie-tracker
+    repository: file://../services-charts/cinekube-movie-tracker
     condition: cinekube-movie-tracker.enabled
